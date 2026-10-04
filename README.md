@@ -1,8 +1,6 @@
-## Hi there 👋
+#Hi there, I'm Thasneem Shifaya 👋
 
-<!--Hi there, I'm Thasneem Shifaya 👋
-
-First-Year Computer Science & Engineering Student | Aspiring Software Developer | Data Science Enthusiast
+###First-Year Computer Science & Engineering Student | Aspiring Software Developer | Data Science Enthusiast
 
 🎓 B.E. Computer Science and Engineering student at St. Joseph's College of Engineering, Chennai, passionate about programming, problem-solving, and exploring how technology can be used to create useful solutions.
 
