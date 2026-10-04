@@ -74,8 +74,8 @@ I'm focusing on building a strong foundation rather than rushing through technol
 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thasneemshifaya&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thasneemshifaya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>---
 
 🌱 A Little More About Me
